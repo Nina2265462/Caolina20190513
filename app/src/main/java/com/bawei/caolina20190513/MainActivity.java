@@ -38,6 +38,6 @@ public class MainActivity extends BaseActivity implements HomeContanct.IHomeView
 
     @Override
     public void ListShow() {
-        
+
     }
 }
